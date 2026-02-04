@@ -4,10 +4,12 @@ Bienvenid@ a mi perfil de GitHub. Soy estudiante de Desarrollo de Software, apas
 
 ## 🔭 Actualmente estoy trabajando en...
 - Proyecto Competencia Digitales: Proyecto realizado para la Universidad Nacional de Cuyo, donde se evaluan las competencias digitales de los usuarios.
+- Proyecto Bienestar Universitario: Proyecto realizado para la Universidad Nacional de Cuyo, sistema unificado de los servicios de la Secretaria de Bienestar Universitario.
 
 ## 🌱 Actualmente estoy aprendiendo...
 - Django
 - Docker - Kubernetes
+- Inglés
 
 ## 👯 Busco colaborar en...
 - Proyectos relacionados con la inteligencia artificial o con la web.
